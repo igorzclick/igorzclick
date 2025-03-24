@@ -1,16 +1,56 @@
-## Hi there 👋
+Olá! Eu sou Igor Rozendo ✌️
 
-<!--
-**igorzclick/igorzclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que demonstram minhas habilidades em [React, Python, HTML, CSS, JavaScript, SQL ]. Sempre busco aprender mais e desenvolver soluções eficientes e inovadoras.
 
-Here are some ideas to get you started:
+✨ Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Apaixonado por tecnologia e resolução de problemas
+
+💻 Desenvolvedor focado em [Front-End,Análise de Dados,Resolução de problemas]
+
+🎓 Sempre aprendendo algo novo
+
+💡 Tecnologias
+
+🌐 Front-end
+
+Desenvolvo interfaces modernas e responsivas utilizando:
+
+React
+
+HTML
+
+CSS
+
+JavaScript
+
+Sass
+
+TypeScript
+
+🖥️ Back-end & Análise de Dados
+
+Tenho experiência na manipulação de dados, análise e criação de dashboards com:
+
+Python
+
+SQL
+
+Power BI
+
+Excel
+
+📚 Artigos & Contribuições
+
+Artigo no Medium/Blog
+
+Contribuição para Open Source
+
+📞 Contato
+
+LinkedIn:(https://www.linkedin.com/in/igor-almeida-5b4b61211/)
+
+E-mail: ii.igoralmeida@gmail.com
+
+
+
