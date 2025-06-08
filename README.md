@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que demonstra
 
 🌟 Apaixonado por tecnologia e resolução de problemas
 
-💻 Desenvolvedor focado em [Front-End,Análise de Dados,Resolução de problemas]
+💻 Desenvolvedor focado em [Back-End,Análise de Dados,Resolução de problemas]
 
 🎓 Sempre aprendendo algo novo
 
